@@ -10,6 +10,8 @@
 	<string>NabiT</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>5E0ED7C1C6224AD0FC015442213F7BB9FB50CA4F</key>
+		<string>https://github.com/mertid/Nabit2.git</string>
 		<key>7AFE266152EE52B55A03844FD1A42AEA35545C65</key>
 		<string>https://github.com/mertid/IOS_IronYard.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>NabiT/NabiT.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>7AFE266152EE52B55A03844FD1A42AEA35545C65</key>
+		<key>5E0ED7C1C6224AD0FC015442213F7BB9FB50CA4F</key>
 		<string>../../..</string>
+		<key>7AFE266152EE52B55A03844FD1A42AEA35545C65</key>
+		<string>../../../../IOS_IronYard</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/mertid/IOS_IronYard.git</string>
+	<string>https://github.com/mertid/Nabit2.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7AFE266152EE52B55A03844FD1A42AEA35545C65</string>
+	<string>5E0ED7C1C6224AD0FC015442213F7BB9FB50CA4F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>7AFE266152EE52B55A03844FD1A42AEA35545C65</string>
 			<key>IDESourceControlWCCName</key>
 			<string>IOS_IronYard</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5E0ED7C1C6224AD0FC015442213F7BB9FB50CA4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Nabit2</string>
 		</dict>
 	</array>
 </dict>
